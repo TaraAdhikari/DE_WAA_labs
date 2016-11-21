@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="lab3_waa:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/lab3_waa_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="lab3_guessNumber_inJSPonly/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="lab3_guessNumber_inJSPonly" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
